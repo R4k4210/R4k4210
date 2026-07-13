@@ -17,8 +17,8 @@
 
 <br />
 
-I build wallets and dapps, frontend and backend. Most of my time goes into the
-interfaces people actually touch and the services behind them.
+I build wallets and dapps, frontend and backend. My work sits at the integration
+layer, where smart contracts meet the interfaces and services people actually use.
 
 ---
 
