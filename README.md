@@ -17,8 +17,8 @@
 
 <br />
 
-I build wallets, dapps and the contracts behind them. Most of my time goes to the
-boundary between smart contracts and the interfaces people actually touch.
+I build wallets and dapps, frontend and backend. Most of my time goes into the
+interfaces people actually touch and the services behind them.
 
 ---
 
@@ -31,20 +31,7 @@ Shared libraries for the Kohaku wallet.
 Core business logic behind the Ambire browser extension and mobile apps.
 
 **[Wonderland](https://github.com/defi-wonderland)**<br />
-Smart contract and frontend engineering across internal and client work.
-
----
-
-### Personal projects
-
-**[react-dapp-web3](https://github.com/R4k4210/react-dapp-web3)** · 6★<br />
-A starting point for React dapps talking to Ethereum.
-
-**[astrovim-config](https://github.com/R4k4210/astrovim-config)** · 3★<br />
-My Neovim setup, kept public so I can steal it back from any machine.
-
-**[esp32_glucometer](https://github.com/R4k4210/esp32_glucometer)** · 1★<br />
-Firmware for a glucose meter running on an ESP32.
+Frontend and backend engineering across internal and client work.
 
 ---
 
