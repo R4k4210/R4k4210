@@ -26,10 +26,7 @@ actually use.
 ### Selected work
 
 **[ethereum/kohaku-commons](https://github.com/ethereum/kohaku-commons)** <br />
-Shared libraries for the Kohaku wallet.
-
 **[ethereum/kohaku-extension](https://github.com/ethereum/kohaku-extension)** <br />
-Core business logic behind the Kohaku browser extension and mobile apps.
 
 ---
 
