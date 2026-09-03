@@ -25,14 +25,11 @@ actually use.
 
 ### Selected work
 
-**[ethereum/kohaku-commons](https://github.com/ethereum/kohaku-commons)** · 37★<br />
+**[ethereum/kohaku-commons](https://github.com/ethereum/kohaku-commons)** <br />
 Shared libraries for the Kohaku wallet.
 
-**[AmbireTech/ambire-common](https://github.com/AmbireTech/ambire-common)** · 30★<br />
-Core business logic behind the Ambire browser extension and mobile apps.
-
-**[Wonderland](https://github.com/defi-wonderland)**<br />
-Frontend and backend engineering across internal and client work.
+**[ethereum/kohaku-extension](https://github.com/ethereum/kohaku-extension)** <br />
+Core business logic behind the Kohaku browser extension and mobile apps.
 
 ---
 
