@@ -26,13 +26,14 @@ actually use.
 ### Selected work
 
 Implemented the Privacy Pools SDK in Kohaku Wallet, a fork of Ambire Wallet built at Wonderland — a proof of concept for private, compliant transactions.
+
 **[ethereum/kohaku-commons](https://github.com/ethereum/kohaku-commons)** <br />
 **[ethereum/kohaku-extension](https://github.com/ethereum/kohaku-extension)** <br />
 
 Co-author of two Ethereum Foundation proposals for interoperable, chain-specific addressing — part of the broader push toward private cross-chain payments.
+
 **[ERC-7930: Interoperable Addresses](https://eips.ethereum.org/EIPS/eip-7930)** <br />
 **[ERC-7828: Interoperable Names](https://eips.ethereum.org/EIPS/eip-7828)** <br />
----
 
 ### Two accounts, one person
 
